@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.pro set filetype=qmake
+au BufRead,BufNewFile *.{pro,pri} set filetype=qmake
